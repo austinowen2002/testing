@@ -1,0 +1,1 @@
+print('Python and coding is hard')
